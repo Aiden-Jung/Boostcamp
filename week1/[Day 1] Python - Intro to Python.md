@@ -65,7 +65,7 @@
 - Style Guide
   - https://peps.python.org/pep-0008/
 - Web Scraping Library
-  <img src="https://lh5.googleusercontent.com/rlg9qeczFXWK8NvQsFIM8xQn9LC5x1QNflNMNGN_Uga2xAfQZWQYVMcwirIjK8L7JAPEQxhqRRTC1Xvd8-tQBkxgIjckhYSxTZFo2sr8-BDoUPRXGAv6prWLRh7rB-WfHIR1UcfcPrG3zf0GESV7J3UFK-FhsyyIV_HSHTOM50uK3YHLY6FMqPIb" width=80%> [7]
+<img src="https://lh5.googleusercontent.com/rlg9qeczFXWK8NvQsFIM8xQn9LC5x1QNflNMNGN_Uga2xAfQZWQYVMcwirIjK8L7JAPEQxhqRRTC1Xvd8-tQBkxgIjckhYSxTZFo2sr8-BDoUPRXGAv6prWLRh7rB-WfHIR1UcfcPrG3zf0GESV7J3UFK-FhsyyIV_HSHTOM50uK3YHLY6FMqPIb" width=80%> [7]
 
 <!-- Reference -->
 
