@@ -52,8 +52,7 @@
 - Colab
   - Colaboratory, or “Colab” for short, is a product from Google Research. Colab allows anybody to write and execute arbitrary python code through the browser, and is especially well suited to machine learning, data analysis and education. More technically, Colab is a hosted Jupyter notebook service that requires no setup to use, while providing access free of charge to computing resources including GPUs. [5]
   - Shortcuts (Jupyer vs Colab)
-
-<img src="https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F5703564%2Fc5ccef67da06b3b2aad5795cd722849a%2F2.png?generation=1602690479582417&alt=media" width=80%> [6]
+    <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F5703564%2Fc5ccef67da06b3b2aad5795cd722849a%2F2.png?generation=1602690479582417&alt=media" width=80%> [6]
 
 ## 3. Tutorial
 
@@ -66,8 +65,7 @@
 - Style Guide
   - https://peps.python.org/pep-0008/
 - Web Scraping Library
-
-<img src="https://lh5.googleusercontent.com/rlg9qeczFXWK8NvQsFIM8xQn9LC5x1QNflNMNGN_Uga2xAfQZWQYVMcwirIjK8L7JAPEQxhqRRTC1Xvd8-tQBkxgIjckhYSxTZFo2sr8-BDoUPRXGAv6prWLRh7rB-WfHIR1UcfcPrG3zf0GESV7J3UFK-FhsyyIV_HSHTOM50uK3YHLY6FMqPIb" width=80%> [7]
+  <img src="https://lh5.googleusercontent.com/rlg9qeczFXWK8NvQsFIM8xQn9LC5x1QNflNMNGN_Uga2xAfQZWQYVMcwirIjK8L7JAPEQxhqRRTC1Xvd8-tQBkxgIjckhYSxTZFo2sr8-BDoUPRXGAv6prWLRh7rB-WfHIR1UcfcPrG3zf0GESV7J3UFK-FhsyyIV_HSHTOM50uK3YHLY6FMqPIb" width=80%> [7]
 
 <!-- Reference -->
 
