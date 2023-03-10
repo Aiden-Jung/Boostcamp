@@ -75,9 +75,4 @@
   - It is similar as Newton's method, but it does not use the second derivative information.
   - SGD(Stochastic Gradient Descent) can be used to reduce cost.
 
-<!-- Reference -->
 
-[1]: https://en.wikipedia.org/wiki/Euclidean_vector
-[2]: https://en.wikipedia.org/wiki/Matrix_(mathematics)
-[3]: https://en.wikipedia.org/wiki/Artificial_neural_network
-[4]: https://en.wikipedia.org/wiki/Gradient_descent
