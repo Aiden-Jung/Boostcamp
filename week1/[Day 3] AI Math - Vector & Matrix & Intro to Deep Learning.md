@@ -7,4 +7,3 @@
 - Operation
   - Suppose we have $$ x = x $$
   - Addition & Subtraction
-    $$ x \pm y = \begin{pmatrix} x_1 \pm y_1 \\ x_2 \pm y_2 \\ \vdots \\ x_d \pm y_d \end{pmatrix} $$
