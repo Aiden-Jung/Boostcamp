@@ -22,7 +22,7 @@
 - Why?
   - Useful Data Structures (Series & DataFrame)
   - Powerful Data Manipulation
-  - $$x$$
+  - $$\sum_x$$
 - Tutorial
   - Document
     - Official Document
