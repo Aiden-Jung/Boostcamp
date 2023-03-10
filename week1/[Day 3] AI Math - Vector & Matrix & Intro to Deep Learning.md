@@ -3,7 +3,8 @@
 ## 1. Vector
 
 - Vector
-  - In mathematics, physics, and engineering, a Euclidean vector or simply a vector is a geometric object that has magnitude (or length) and direction.
+  - In mathematics, physics, and engineering, a Euclidean vector or simply a vector is a geometric object that has magnitude (or length) and direction. [1]
 - Operation
-  - Suppose we have $$ x $$
-  - Addition & Subtraction
+
+  - Suppose we have
+    $$ x = \begin{pmatrix} x_1 \\ x_2 \\ \vdots \\ x_d \end{pmatrix} \textmd{ and } y = \begin{pmatrix} y_1 \\ y_2 \\ \vdots \\ y_d \end{pmatrix} $$
