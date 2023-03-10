@@ -7,4 +7,4 @@
 - Operation
 
   - Suppose we have
-    $$x = \begin{bmatrix} x_1 \end{bmatrix}$$
+    $$x = x_1$$
