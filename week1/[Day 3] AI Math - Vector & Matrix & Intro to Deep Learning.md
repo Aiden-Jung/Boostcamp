@@ -7,4 +7,4 @@
 - Operation
 
   - Suppose we have
-    $$x = $$
+    $$x = \begin{pmatrix} x_1 \\ x_2 \\ \vdots \\ x_d \end{pmatrix}$$
